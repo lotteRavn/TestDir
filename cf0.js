@@ -1,3 +1,4 @@
+// c++ kommentar af Lotte Ravn
 'use strict';
 
 let tails = 0;
